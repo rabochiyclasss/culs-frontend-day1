@@ -6,7 +6,7 @@ It is broken. Your job is to find out why, and to repair it.
 
 ## What you need
 
-- very good laptop
+- good laptop
 - a GitHub account
 - Git
 - an editor
